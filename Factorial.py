@@ -1,4 +1,6 @@
+#Finding the factorial
 def main():
+ #input number must be greater than or equal to 0
     n=int(input("What's the number? "))
     print("Factorial is", factorial(n))
 
